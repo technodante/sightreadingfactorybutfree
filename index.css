@@ -1,0 +1,21 @@
+.text {
+    font-family: "Lucida Console", "Courier New", monospace
+}
+
+.download {
+    color: #815ae6;
+    font-weight: bold;
+}
+
+.goodlink {
+    color: #4cba64;
+}
+
+.badlink {
+    color: red;
+}
+
+.arrow {
+    font-size: 75px;
+    font-weight: bolder;
+}
